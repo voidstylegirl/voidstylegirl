@@ -30,6 +30,6 @@ IDEs:
 </div>
 <br> 
 <div>
-<img height=30% width=30% align="left" src="https://github.com/user-attachments/assets/deccbf56-4741-485b-94eb-81f1a8bab2aa" />
+<img height=30% width=30% align="center" src="https://github.com/user-attachments/assets/deccbf56-4741-485b-94eb-81f1a8bab2aa" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9400D3&section=footer"/>
 </div>
