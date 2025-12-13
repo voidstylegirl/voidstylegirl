@@ -1,35 +1,54 @@
-<div style="display: inline-block;">
-<img width 100% src ="https://konachan.com/image/538fc2cf84256c90cf0a26db8a70a46c/Konachan.com%20-%20367024%20all_male%20animal%20animated%20building%20cat%20city%20clouds%20male%20moon%20night%20original%20pixeljeff%20sky%20stars%20watermark.gif" alt="Typing SVG" >
-<br>
-<img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=sofismoura&show_icons=true&theme=dracula">
-  <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofismoura&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe"/>
-</div>
-<br>
-<div>
-<br>
-Aprendendo no momento:
-</div>
-<br>
-<div>
-<img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <img src="./painel_github.png" width="1100px" alt="Sofia Painel">
+</p>
+<h3 align="center" style="color:#B30000;">Oii, eu sou a Sofia Moura, criadora de conteúdo de programação e tecnologia!</h3>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C0000,50:B30000,100:5C0000&height=4&radius=10" width="100%"/>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=sofismoura&message=sofia&color=B30000&labelColor=0F0F12&style=for-the-badge&logo=GitHub">
+</p>
+
+<div align="center">
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=sofismoura&show_icons=true&bg_color=0F0F12&title_color=FFFFFF&icon_color=B30000&text_color=E6E6E6&border_color=5C0000"/>
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofismoura&layout=compact&bg_color=0F0F12&title_color=FFFFFF&icon_color=B30000&text_color=E6E6E6&border_color=5C0000"/>
+</div>
+
+<p align="center" style="color:#FFFFFF;">
+  <strong>
+    Desenvolvedora de Front-end e Back-end • Apreciadora de Literatura Contemporânea • Amante de Arte Cênica
+  </strong>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C0000,50:B30000,100:5C0000&height=4&radius=10" width="100%"/>
+
+##  Aprendendo no Momento
+
+### **Linguagens**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,react,php,mysql" />
+</p>
+
+### **IDE's**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,git,github,idea,figma,mysql,orca" />
+</p>
+
+### **Redes Sociais**
+
+<div> 
+  <a href="https://instagram.com/sofismoura" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width= 13% target="_blank"></a>
+ 	<a href="https://www.twitch.tv/sofis_moura" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" width= 10% target="_blank"></a>
+ <a href="https://discord.com/channels/@harumiowo" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" width=11% target="_blank"></a> 
+  <a href="https://www.tiktok.com/@sofis_moura" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" width= 11% target="_blank"></a> 
+  <a href = "mailto:sofia.moura494@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width= 10% target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sofismoura" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width= 13% target="_blank"></a> 
+</div
   
-</div>
-<br>
 <div>
-IDEs:
-</div>
-<div style="display: inline-block;">
-<br>
-<img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-<img align="center" alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-</div>
-<br> 
-<div>
-<img height=30% width=30% align="center" src="https://github.com/user-attachments/assets/deccbf56-4741-485b-94eb-81f1a8bab2aa" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9400D3&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5C0000,50:B30000,100:5C0000&section=footer"/>
 </div>
