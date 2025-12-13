@@ -18,6 +18,8 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofismoura&layout=compact&bg_color=0F0F12&title_color=FFFFFF&icon_color=B30000&text_color=E6E6E6&border_color=5C0000"/>
 </div>
 
+<br>
+
 <p align="center" style="color:#FFFFFF;">
   <strong>
     Desenvolvedora de Front-end e Back-end • Apreciadora de Literatura Contemporânea • Amante de Arte Cênica
